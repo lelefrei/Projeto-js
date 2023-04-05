@@ -1,0 +1,30 @@
+*{
+font-family: 'Roboto', sans-serif;
+font-size: 20px;
+box-sizing: border-box;
+}
+.conteiner{
+    width: 77%;
+    padding: 0px 0px;
+    margin: none;
+    border: none;
+    border-radius: 8px;
+    outline: none;
+    text-transform: uppercase;
+    font-weight: 400;
+    letter-spacing: 2px;
+    color:rgba(117, 114, 255, 1) ;
+    background-color:rgb(255, 255, 255) ;
+    cursor: pointer;
+    
+}
+.conteiner2{
+    margin-top: 20px;
+    text-align: center;
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    float: left;
+    margin-right: 20px;
+}

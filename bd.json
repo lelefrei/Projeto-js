@@ -1,0 +1,23 @@
+{
+    "alunos": [
+        {
+            "nome": "Tom",
+            "rgm": 299,
+            "avaliacaoParcial": 2,
+            "exercicio": 1,
+            "avaliacaoRegimental": 2,
+            
+            "img": "./imgs/tom.jpg"
+            
+        },
+        {
+            "nome": "Maria",
+            "rgm": 123,
+            "avaliacaoParcial": 2,
+            "exercicio": 2,
+            "avaliacaoRegimental": 5,
+           
+            "img": "./imgs/maria.jpg"
+        }
+    ]
+}
